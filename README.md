@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bouzangad Zakaria</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/> 
+<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="margin:0 auto"/> 
 <p><p/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaaack93&label=Profile%20views&color=0e75b6&style=flat" alt="zaaack93" /> </p>
 
